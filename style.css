@@ -1,0 +1,25 @@
+BODY {
+    background-color: aqua;
+    color: rgb(13, 13, 12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.lightmode{
+    background-color: rgb(17, 17, 17);
+ color: blueviolet;
+}
+button{
+    border-radius: 20px;
+    font-weight: 800;
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+}
+.hh{
+    font-weight: 900;
+    font-size: 80px;
+    letter-spacing: 6px;
+}
