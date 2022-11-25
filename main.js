@@ -42,6 +42,13 @@ function khaled(){
 
 
 
+function khaledd() {
+    var BODY = document.body;
+    BODY.classList.toggle("lightmode");
+    }
+
+
+
 
 
 
@@ -131,10 +138,7 @@ function khaled(){
             
         // ------------------------------------
 
-        function khaledd() {
-            var BODY = document.body;
-            BODY.classList.toggle("lightmode");
-            }
+     
 
         // ------------------------------------
 
